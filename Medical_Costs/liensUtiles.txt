@@ -1,0 +1,13 @@
+Clustering and Regression on our dataset:
+https://www.kaggle.com/code/janiobachmann/patient-charges-clustering-and-regression
+
+Explore the dataset:
+    Exploratory data analysis: https://www.kaggle.com/code/prashant111/random-forest-classifier-tutorial
+
+
+Train different models: 
+    Ridge,Lasso, Linear Regression Models (Attention, on n'a pas vu Lasso regression en cours, c'est donc un modèle 
+    suplementaire): https://www.kaggle.com/code/vignesh1609/ridge-lasso-linear-regression-models
+    Random forest (additional model): https://www.kaggle.com/code/prashant111/random-forest-classifier-tutorial
+    Kaggle Linear regression: https://www.kaggle.com/code/sudhirnl7/linear-regression-tutorial
+    Kaggle Ridge : https://www.kaggle.com/code/reidtc/kernel-ridge
