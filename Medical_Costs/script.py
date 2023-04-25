@@ -16,7 +16,7 @@ from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, accuracy_s
 
 
 plt.style.use('bmh')
-df = pd.read_csv('Medical_Costs/insurance.csv')
+df = pd.read_csv('insurance.csv')
 
 #Check empty values
 print(df.isnull().sum())
